@@ -7,6 +7,8 @@ import (
 	"github.com/AleksandrGurkin/testDeps/third"
 )
 
+var v = 1
+
 func main() {
 	fmt.Println("execute1 ", first.First, third.Third)
 }

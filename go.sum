@@ -1,0 +1,4 @@
+github.com/AleksandrGurkin/testDeps/first v0.0.0-20220322151152-9cab8f931350 h1:8U5k0tgxUG2gFmaKLxgZCiG3mv191oeeL4eXbAnX3Wg=
+github.com/AleksandrGurkin/testDeps/first v0.0.0-20220322151152-9cab8f931350/go.mod h1:2eq7hWUHRYGPYJXaVlye8k/qZsnhCALnveWd1VX8irE=
+github.com/AleksandrGurkin/testDeps/second v0.0.0-20220322154352-1dfd6291b876 h1:Gr2fK8njOfC5icJykS9Vv83P22U8+kHe/KekzYV1WRc=
+github.com/AleksandrGurkin/testDeps/second v0.0.0-20220322154352-1dfd6291b876/go.mod h1:MMnJ5jIRyQVQ1Y5V+qbSR6LdP9q+9E26GzuE2CP3cDo=
